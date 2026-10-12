@@ -1,3 +1,9 @@
+## Screenshot
+
+![images/accounting-dashboard.png](https://github.com/javad5087/Daily-accounting/blob/main/screen.png))
+
+
+
 # حسابداری روزانه — PHP + SQLite + DaisyUI
 
 وب‌اپ فارسی و راست‌چین برای ثبت درآمد، هزینه، مدیریت حساب بانکی/صندوق، انتقال وجه، گزارش‌ها و پشتیبان‌گیری.
